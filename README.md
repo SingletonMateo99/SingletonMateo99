@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer💻.
 
-Do intensive henry bootcamp🚀🚀 with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, and SQL databases.
+Do intensive henry bootcamp🚀🚀 with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, Tailwind, and SQL databases.
 
 I am a very proactive person who loves efficiency and effectiveness.
 
